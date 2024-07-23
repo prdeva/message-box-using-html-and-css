@@ -1,0 +1,33 @@
+.input{
+  border-radius: 10px;
+  height: 50px;
+  width: 300px;
+
+}
+button{
+    margin: 1%;
+
+}
+.but1{
+    margin-left: 10px;
+}
+img{
+    height: 80px;
+    width: 80px;
+    border: 1px solid;
+    border-radius: 100px;
+    margin-left: 10px;
+    margin-top: 10px;
+    
+
+}
+.container{
+   border: 5px solid;
+   border-color: #ebf712;
+   width: 400px;
+   text-align: center;
+   border-radius: 10px;
+   margin: 200px;
+   margin-left: 500px;
+
+}
